@@ -1,0 +1,1 @@
+<?php global $featured_events_shc_count; ?><div class="list-group">

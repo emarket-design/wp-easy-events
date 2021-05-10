@@ -1,0 +1,48 @@
+.fc.fc-ltr.ui-widget *,
+.ui-multiselect-menu{
+font-size:12px;
+}
+.fc-center h2{
+font-size:16px !important;
+}
+.fc.fc-ltr.ui-widget table {
+    line-height: 2;
+    margin: 0;
+}
+div.emd-calendar-loading { position:absolute; width:100%; height:100%; background:#FFFFFF url(../images/loading.gif) 50% 50% no-repeat; left:0px; top:0px; opacity:0.8; filter:alpha(opacity=80); z-index:9999999999; }
+
+.checkbox-block{
+margin-bottom:10px
+}
+.fc td {
+    border-bottom-width: 2px;
+}
+@media screen and (max-width: 640px) {
+	.emd-calendar-filters table {
+		overflow-x: auto;
+		display: block;
+	}
+}
+.ui-multiselect-checkboxes.ui-helper-reset{
+height:auto !important;
+}
+div.emd-container .fc-head table{margin:0}
+div.emd-container th{
+font-size: 100%;
+}
+div.emd-container .fc-view-container th {
+text-align: center;
+}
+div.emd-container .fc-unthemed a{
+background-color:#D1D1D1;
+}
+.ui-datepicker-inline.ui-datepicker{
+border:0 none;margin:15px auto;text-align:center;
+}
+.ui-datepicker-calendar{
+display:none;
+}
+.ui-datepicker-title option{
+background:white;color:#333;
+}
+
